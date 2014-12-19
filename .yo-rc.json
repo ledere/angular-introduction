@@ -1,0 +1,6 @@
+{
+  "generator-ngbp": {
+    "projectName": "angular-introduction",
+    "useCoffeescript": false
+  }
+}
